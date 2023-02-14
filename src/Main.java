@@ -14,7 +14,7 @@ public class Main {
 // Skapa variabler för summan av inkomster och utgifter
         double sumIncome = allowance + loan;
         double sumExpenses = rent + food + bus + goodies + clothes + other;
-
+//hej jag har pushat
 // Skapa variabel för överskott
         double surplus = sumIncome - sumExpenses;
 
